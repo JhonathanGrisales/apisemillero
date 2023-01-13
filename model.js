@@ -6,7 +6,7 @@ const CLIENT_ID =
 const CLIENT_SECRET = "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";
 const REDIRECT_URI = "https://developers.google.com/oauthplayground";
 const REFRESH_TOKEN =
-  "1//04NzTrfd7lHJBCgYIARAAGAQSNwF-L9Ir5ezt4WfGeJuazvo6_S8SolFXtsvl9lIIrvvnTm7aL6Zkv-7pgf0o98m2Jzix7sAZot8";
+  "1//0419nMLpx739vCgYIARAAGAQSNwF-L9Irlgqn8y2BogB-xA5aGRo3c4yidCrpMwfZXZoesmp3bBjbuJGSN4xyQlmopI0k2I-B3dY";
 
 const oauthClient = new google.auth.OAuth2(
   CLIENT_ID,
